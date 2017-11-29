@@ -1,8 +1,5 @@
 package Lab2;
 
-/**
- * Created by Nick Batist on 10/23/17.
- */
 public class Car extends AbstractVehicle {
 
     public Car() { super(); }
