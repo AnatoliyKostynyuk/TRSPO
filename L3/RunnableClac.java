@@ -1,4 +1,4 @@
-package Lab3;
+package L3;
 
 import java.text.MessageFormat;
 
