@@ -1,4 +1,4 @@
-package Lab2;
+package L2;
 
 public class Car extends AbstractVehicle {
 
