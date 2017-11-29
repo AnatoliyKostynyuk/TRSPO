@@ -1,4 +1,4 @@
-package Lab2;
+package L2;
 
 public abstract class AbstractVehicle implements IVehicle {
     protected Manufacturer manufacturer;
