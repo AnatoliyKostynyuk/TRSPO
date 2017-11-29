@@ -1,9 +1,5 @@
 package Lab5;
 
-/**
- * Created by Nick Batist on 11/23/17.
- */
-
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
