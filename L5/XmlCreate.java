@@ -1,4 +1,4 @@
-package Lab5;
+package L5;
 
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;
