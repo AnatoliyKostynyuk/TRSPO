@@ -1,8 +1,5 @@
 package Lab4;
 
-/**
- * Created by Nick Batist on 11/23/17.
- */
 import java.net.*;
 import java.io.*;
 
