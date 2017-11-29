@@ -2,8 +2,6 @@ package Lab1;
 
 import java.util.Scanner;
 
-
-
 public class Calc {
 
     int a;
