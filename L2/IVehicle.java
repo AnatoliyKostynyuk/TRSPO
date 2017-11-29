@@ -1,4 +1,4 @@
-package Lab2;
+package L2;
 
 public interface IVehicle {
   //  void fillTank(int fuelAmount, FuelType fuelType);
