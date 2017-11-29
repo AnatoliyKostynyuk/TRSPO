@@ -1,8 +1,5 @@
 package Lab2;
 
-/**
- * Created by Nick Batist on 10/23/17.
- */
 public abstract class AbstractVehicle implements IVehicle {
     protected Manufacturer manufacturer;
     protected String model;
